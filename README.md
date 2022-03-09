@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantoshAbhinav
-- 👀 I’m interested in Artificial Inteligence
+- 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Applied ML and DL
 
 <!---
